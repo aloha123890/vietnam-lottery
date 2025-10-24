@@ -1,21 +1,20 @@
-2025-10-24 16:51:56,787 - INFO - Date range: 2025-10-24 to 2025-10-24
-2025-10-24 16:51:56,865 - INFO - Fetching XSMN from 2025-10-24 to 2025-10-24
-2025-10-24 16:51:56,891 - INFO - Generated dataframes with data from 2025-08-08 to 2025-10-23
-2025-10-24 16:51:56,891 - INFO - Successfully loaded existing data from data/xsmn.json
-2025-10-24 16:51:56,892 - INFO - Fetching XSMN: 2025-10-24
-2025-10-24 16:51:56,892 - INFO - Fetching URL: https://xoso.com.vn/xsmn-24-10-2025.html
-2025-10-24 16:51:57,679 - INFO - Response status: 200
-2025-10-24 16:51:57,703 - INFO - Found provinces: Vĩnh Long, Bình Dương, Trà Vinh
-2025-10-24 16:51:57,704 - INFO - Successfully processed data for Vĩnh Long on 2025-10-24
-2025-10-24 16:51:57,704 - INFO - Successfully processed data for Bình Dương on 2025-10-24
-2025-10-24 16:51:57,704 - INFO - Successfully processed data for Trà Vinh on 2025-10-24
-2025-10-24 16:51:57,704 - INFO - Successfully fetched 3 results for date 2025-10-24
-2025-10-24 16:51:57,727 - INFO - Generated dataframes with data from 2025-08-08 to 2025-10-24
-2025-10-24 16:51:57,732 - INFO - Saved 245 results to data/xsmn.json
-2025-10-24 16:51:57,765 - INFO - Saved 245 records to data/xsmn.csv and data/xsmn.parquet
-2025-10-24 16:51:57,769 - INFO - Saved 245 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2025-10-24 16:51:57,781 - INFO - Saved 245 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2025-10-24 16:51:57,790 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2025-10-24 16:51:57,790 - INFO - Successfully fetched 1/1 days of XSMN data
-2025-10-24 16:51:57,790 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2025-10-24 17:51:56,586 - INFO - Date range: 2025-10-24 to 2025-10-24
+2025-10-24 17:51:56,662 - INFO - Fetching XSMT from 2025-10-24 to 2025-10-24
+2025-10-24 17:51:56,684 - INFO - Generated dataframes with data from 2025-08-08 to 2025-10-23
+2025-10-24 17:51:56,684 - INFO - Successfully loaded existing data from data/xsmt.json
+2025-10-24 17:51:56,684 - INFO - Fetching XSMT: 2025-10-24
+2025-10-24 17:51:56,684 - INFO - Fetching URL: https://xoso.com.vn/xsmt-24-10-2025.html
+2025-10-24 17:51:57,479 - INFO - Response status: 200
+2025-10-24 17:51:57,498 - INFO - Found provinces: Gia Lai, Ninh Thuận
+2025-10-24 17:51:57,499 - INFO - Successfully processed data for Gia Lai on 2025-10-24
+2025-10-24 17:51:57,499 - INFO - Successfully processed data for Ninh Thuận on 2025-10-24
+2025-10-24 17:51:57,499 - INFO - Successfully fetched 2 results for date 2025-10-24
+2025-10-24 17:51:57,518 - INFO - Generated dataframes with data from 2025-08-08 to 2025-10-24
+2025-10-24 17:51:57,522 - INFO - Saved 189 results to data/xsmt.json
+2025-10-24 17:51:57,591 - INFO - Saved 189 records to data/xsmt.csv and data/xsmt.parquet
+2025-10-24 17:51:57,595 - INFO - Saved 189 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2025-10-24 17:51:57,606 - INFO - Saved 189 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2025-10-24 17:51:57,614 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2025-10-24 17:51:57,615 - INFO - Successfully fetched 1/1 days of XSMT data
+2025-10-24 17:51:57,615 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
