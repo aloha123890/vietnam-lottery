@@ -1,12 +1,27 @@
-2025-11-11 16:52:37,381 - INFO - Date range: 2025-11-11 to 2025-11-11
-2025-11-11 16:52:37,459 - INFO - Fetching XSMN from 2025-11-11 to 2025-11-11
-2025-11-11 16:52:37,487 - INFO - Generated dataframes with data from 2025-08-08 to 2025-11-10
-2025-11-11 16:52:37,488 - INFO - Successfully loaded existing data from data/xsmn.json
-2025-11-11 16:52:37,488 - INFO - Fetching XSMN: 2025-11-11
-2025-11-11 16:52:37,488 - INFO - Fetching URL: https://xoso.com.vn/xsmn-11-11-2025.html
-2025-11-11 16:52:38,396 - INFO - Response status: 408
-2025-11-11 16:52:38,396 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmn-11-11-2025.html, status code: 408
-2025-11-11 16:52:38,396 - WARNING - No data or invalid data for XSMN on 2025-11-11
-2025-11-11 16:52:38,396 - ERROR - No valid XSMN data fetched
-2025-11-11 16:52:38,396 - INFO - Lottery Data Fetch Summary:
-XSMN: failed
+2025-11-11 17:53:18,288 - INFO - Date range: 2025-11-10 to 2025-11-11
+2025-11-11 17:53:18,368 - INFO - Fetching XSMT from 2025-11-10 to 2025-11-11
+2025-11-11 17:53:18,392 - INFO - Generated dataframes with data from 2025-08-08 to 2025-11-09
+2025-11-11 17:53:18,393 - INFO - Successfully loaded existing data from data/xsmt.json
+2025-11-11 17:53:18,393 - INFO - Fetching XSMT: 2025-11-10
+2025-11-11 17:53:18,393 - INFO - Fetching URL: https://xoso.com.vn/xsmt-10-11-2025.html
+2025-11-11 17:53:26,513 - INFO - Response status: 200
+2025-11-11 17:53:26,532 - INFO - Found provinces: Huế, Phú Yên
+2025-11-11 17:53:26,533 - INFO - Successfully processed data for Huế on 2025-11-10
+2025-11-11 17:53:26,533 - INFO - Successfully processed data for Phú Yên on 2025-11-10
+2025-11-11 17:53:26,533 - INFO - Successfully fetched 2 results for date 2025-11-10
+2025-11-11 17:53:26,533 - INFO - Fetching XSMT: 2025-11-11
+2025-11-11 17:53:26,533 - INFO - Fetching URL: https://xoso.com.vn/xsmt-11-11-2025.html
+2025-11-11 17:53:27,283 - INFO - Response status: 200
+2025-11-11 17:53:27,306 - INFO - Found provinces: Đắk Lắk, Quảng Nam
+2025-11-11 17:53:27,307 - INFO - Successfully processed data for Đắk Lắk on 2025-11-11
+2025-11-11 17:53:27,307 - INFO - Successfully processed data for Quảng Nam on 2025-11-11
+2025-11-11 17:53:27,307 - INFO - Successfully fetched 2 results for date 2025-11-11
+2025-11-11 17:53:27,328 - INFO - Generated dataframes with data from 2025-08-08 to 2025-11-11
+2025-11-11 17:53:27,333 - INFO - Saved 233 results to data/xsmt.json
+2025-11-11 17:53:27,354 - INFO - Saved 233 records to data/xsmt.csv and data/xsmt.parquet
+2025-11-11 17:53:27,358 - INFO - Saved 233 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2025-11-11 17:53:27,370 - INFO - Saved 233 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2025-11-11 17:53:27,380 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2025-11-11 17:53:27,380 - INFO - Successfully fetched 2/2 days of XSMT data
+2025-11-11 17:53:27,380 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
