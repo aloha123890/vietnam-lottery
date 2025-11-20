@@ -1,12 +1,12 @@
-2025-11-20 16:51:45,909 - INFO - Date range: 2025-11-20 to 2025-11-20
-2025-11-20 16:51:45,987 - INFO - Fetching XSMN from 2025-11-20 to 2025-11-20
-2025-11-20 16:51:46,017 - INFO - Generated dataframes with data from 2025-08-08 to 2025-11-19
-2025-11-20 16:51:46,018 - INFO - Successfully loaded existing data from data/xsmn.json
-2025-11-20 16:51:46,018 - INFO - Fetching XSMN: 2025-11-20
-2025-11-20 16:51:46,018 - INFO - Fetching URL: https://xoso.com.vn/xsmn-20-11-2025.html
-2025-11-20 16:51:48,673 - INFO - Response status: 408
-2025-11-20 16:51:48,673 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmn-20-11-2025.html, status code: 408
-2025-11-20 16:51:48,673 - WARNING - No data or invalid data for XSMN on 2025-11-20
-2025-11-20 16:51:48,674 - ERROR - No valid XSMN data fetched
-2025-11-20 16:51:48,674 - INFO - Lottery Data Fetch Summary:
-XSMN: failed
+2025-11-20 17:52:57,351 - INFO - Date range: 2025-11-20 to 2025-11-20
+2025-11-20 17:52:57,426 - INFO - Fetching XSMT from 2025-11-20 to 2025-11-20
+2025-11-20 17:52:57,449 - INFO - Generated dataframes with data from 2025-08-08 to 2025-11-19
+2025-11-20 17:52:57,450 - INFO - Successfully loaded existing data from data/xsmt.json
+2025-11-20 17:52:57,450 - INFO - Fetching XSMT: 2025-11-20
+2025-11-20 17:52:57,450 - INFO - Fetching URL: https://xoso.com.vn/xsmt-20-11-2025.html
+2025-11-20 17:52:57,861 - INFO - Response status: 408
+2025-11-20 17:52:57,862 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmt-20-11-2025.html, status code: 408
+2025-11-20 17:52:57,862 - WARNING - No data or invalid data for XSMT on 2025-11-20
+2025-11-20 17:52:57,862 - ERROR - No valid XSMT data fetched
+2025-11-20 17:52:57,862 - INFO - Lottery Data Fetch Summary:
+XSMT: failed
