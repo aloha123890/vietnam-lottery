@@ -1,12 +1,17 @@
-2025-11-25 17:55:23,616 - INFO - Date range: 2025-11-25 to 2025-11-25
-2025-11-25 17:55:23,694 - INFO - Fetching XSMT from 2025-11-25 to 2025-11-25
-2025-11-25 17:55:23,722 - INFO - Generated dataframes with data from 2025-08-08 to 2025-11-24
-2025-11-25 17:55:23,722 - INFO - Successfully loaded existing data from data/xsmt.json
-2025-11-25 17:55:23,722 - INFO - Fetching XSMT: 2025-11-25
-2025-11-25 17:55:23,722 - INFO - Fetching URL: https://xoso.com.vn/xsmt-25-11-2025.html
-2025-11-25 17:55:25,135 - INFO - Response status: 408
-2025-11-25 17:55:25,135 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmt-25-11-2025.html, status code: 408
-2025-11-25 17:55:25,135 - WARNING - No data or invalid data for XSMT on 2025-11-25
-2025-11-25 17:55:25,135 - ERROR - No valid XSMT data fetched
-2025-11-25 17:55:25,135 - INFO - Lottery Data Fetch Summary:
-XSMT: failed
+2025-11-25 18:53:44,707 - INFO - Date range: 2025-11-25 to 2025-11-25
+2025-11-25 18:53:44,784 - INFO - Fetching XSMB from 2025-11-25 to 2025-11-25
+2025-11-25 18:53:44,803 - INFO - Generated dataframes with data from 2025-08-08 to 2025-11-24
+2025-11-25 18:53:44,804 - INFO - Successfully loaded existing data from data/xsmb.json
+2025-11-25 18:53:44,804 - INFO - Fetching XSMB: 2025-11-25
+2025-11-25 18:53:44,804 - INFO - Fetching URL: https://xoso.com.vn/xsmb-25-11-2025.html
+2025-11-25 18:53:45,075 - INFO - Response status: 200
+2025-11-25 18:53:45,099 - INFO - Successfully fetched data for 2025-11-25
+2025-11-25 18:53:45,117 - INFO - Generated dataframes with data from 2025-08-08 to 2025-11-25
+2025-11-25 18:53:45,121 - INFO - Saved 110 results to data/xsmb.json
+2025-11-25 18:53:45,150 - INFO - Saved 110 records to data/xsmb.csv and data/xsmb.parquet
+2025-11-25 18:53:45,154 - INFO - Saved 110 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
+2025-11-25 18:53:45,164 - INFO - Saved 110 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
+2025-11-25 18:53:45,174 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
+2025-11-25 18:53:45,174 - INFO - Successfully fetched 1/1 days of XSMB data
+2025-11-25 18:53:45,174 - INFO - Lottery Data Fetch Summary:
+XSMB: succeeded
