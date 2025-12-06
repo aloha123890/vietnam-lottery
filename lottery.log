@@ -1,30 +1,21 @@
-2025-12-06 16:52:23,370 - INFO - Date range: 2025-12-05 to 2025-12-06
-2025-12-06 16:52:23,448 - INFO - Fetching XSMN from 2025-12-05 to 2025-12-06
-2025-12-06 16:52:23,481 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-04
-2025-12-06 16:52:23,482 - INFO - Successfully loaded existing data from data/xsmn.json
-2025-12-06 16:52:23,482 - INFO - Fetching XSMN: 2025-12-05
-2025-12-06 16:52:23,482 - INFO - Fetching URL: https://xoso.com.vn/xsmn-05-12-2025.html
-2025-12-06 16:52:34,667 - INFO - Response status: 200
-2025-12-06 16:52:34,692 - INFO - Found provinces: Vĩnh Long, Bình Dương, Trà Vinh
-2025-12-06 16:52:34,693 - INFO - Successfully processed data for Vĩnh Long on 2025-12-05
-2025-12-06 16:52:34,693 - INFO - Successfully processed data for Bình Dương on 2025-12-05
-2025-12-06 16:52:34,693 - INFO - Successfully processed data for Trà Vinh on 2025-12-05
-2025-12-06 16:52:34,693 - INFO - Successfully fetched 3 results for date 2025-12-05
-2025-12-06 16:52:34,693 - INFO - Fetching XSMN: 2025-12-06
-2025-12-06 16:52:34,693 - INFO - Fetching URL: https://xoso.com.vn/xsmn-06-12-2025.html
-2025-12-06 16:52:36,172 - INFO - Response status: 200
-2025-12-06 16:52:36,197 - INFO - Found provinces: TPHCM, Long An, Bình Phước, Hậu Giang
-2025-12-06 16:52:36,197 - INFO - Successfully processed data for TPHCM on 2025-12-06
-2025-12-06 16:52:36,198 - INFO - Successfully processed data for Long An on 2025-12-06
-2025-12-06 16:52:36,198 - INFO - Successfully processed data for Bình Phước on 2025-12-06
-2025-12-06 16:52:36,198 - INFO - Successfully processed data for Hậu Giang on 2025-12-06
-2025-12-06 16:52:36,198 - INFO - Successfully fetched 4 results for date 2025-12-06
-2025-12-06 16:52:36,227 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-06
-2025-12-06 16:52:36,235 - INFO - Saved 381 results to data/xsmn.json
-2025-12-06 16:52:36,299 - INFO - Saved 381 records to data/xsmn.csv and data/xsmn.parquet
-2025-12-06 16:52:36,304 - INFO - Saved 381 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2025-12-06 16:52:36,318 - INFO - Saved 381 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2025-12-06 16:52:36,331 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2025-12-06 16:52:36,332 - INFO - Successfully fetched 2/2 days of XSMN data
-2025-12-06 16:52:36,332 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2025-12-06 17:50:27,103 - INFO - Date range: 2025-12-06 to 2025-12-06
+2025-12-06 17:50:27,180 - INFO - Fetching XSMT from 2025-12-06 to 2025-12-06
+2025-12-06 17:50:27,208 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-05
+2025-12-06 17:50:27,209 - INFO - Successfully loaded existing data from data/xsmt.json
+2025-12-06 17:50:27,209 - INFO - Fetching XSMT: 2025-12-06
+2025-12-06 17:50:27,209 - INFO - Fetching URL: https://xoso.com.vn/xsmt-06-12-2025.html
+2025-12-06 17:50:29,150 - INFO - Response status: 200
+2025-12-06 17:50:29,174 - INFO - Found provinces: Đà Nẵng, Quảng Ngãi, Đắk Nông
+2025-12-06 17:50:29,174 - INFO - Successfully processed data for Đà Nẵng on 2025-12-06
+2025-12-06 17:50:29,175 - INFO - Successfully processed data for Quảng Ngãi on 2025-12-06
+2025-12-06 17:50:29,175 - INFO - Successfully processed data for Đắk Nông on 2025-12-06
+2025-12-06 17:50:29,175 - INFO - Successfully fetched 3 results for date 2025-12-06
+2025-12-06 17:50:29,199 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-06
+2025-12-06 17:50:29,205 - INFO - Saved 294 results to data/xsmt.json
+2025-12-06 17:50:29,252 - INFO - Saved 294 records to data/xsmt.csv and data/xsmt.parquet
+2025-12-06 17:50:29,256 - INFO - Saved 294 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2025-12-06 17:50:29,269 - INFO - Saved 294 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2025-12-06 17:50:29,282 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2025-12-06 17:50:29,282 - INFO - Successfully fetched 1/1 days of XSMT data
+2025-12-06 17:50:29,282 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
