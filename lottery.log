@@ -1,21 +1,12 @@
-2025-12-14 16:51:57,320 - INFO - Date range: 2025-12-14 to 2025-12-14
-2025-12-14 16:51:57,400 - INFO - Fetching XSMN from 2025-12-14 to 2025-12-14
-2025-12-14 16:51:57,436 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-13
-2025-12-14 16:51:57,437 - INFO - Successfully loaded existing data from data/xsmn.json
-2025-12-14 16:51:57,437 - INFO - Fetching XSMN: 2025-12-14
-2025-12-14 16:51:57,437 - INFO - Fetching URL: https://xoso.com.vn/xsmn-14-12-2025.html
-2025-12-14 16:52:06,276 - INFO - Response status: 200
-2025-12-14 16:52:06,301 - INFO - Found provinces: Tiền Giang, Kiên Giang, Đà Lạt
-2025-12-14 16:52:06,302 - INFO - Successfully processed data for Tiền Giang on 2025-12-14
-2025-12-14 16:52:06,302 - INFO - Successfully processed data for Kiên Giang on 2025-12-14
-2025-12-14 16:52:06,302 - INFO - Successfully processed data for Đà Lạt on 2025-12-14
-2025-12-14 16:52:06,302 - INFO - Successfully fetched 3 results for date 2025-12-14
-2025-12-14 16:52:06,333 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-14
-2025-12-14 16:52:06,341 - INFO - Saved 406 results to data/xsmn.json
-2025-12-14 16:52:06,387 - INFO - Saved 406 records to data/xsmn.csv and data/xsmn.parquet
-2025-12-14 16:52:06,392 - INFO - Saved 406 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2025-12-14 16:52:06,408 - INFO - Saved 406 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2025-12-14 16:52:06,422 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2025-12-14 16:52:06,422 - INFO - Successfully fetched 1/1 days of XSMN data
-2025-12-14 16:52:06,422 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2025-12-14 17:51:27,348 - INFO - Date range: 2025-12-14 to 2025-12-14
+2025-12-14 17:51:27,425 - INFO - Fetching XSMT from 2025-12-14 to 2025-12-14
+2025-12-14 17:51:27,454 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-13
+2025-12-14 17:51:27,455 - INFO - Successfully loaded existing data from data/xsmt.json
+2025-12-14 17:51:27,455 - INFO - Fetching XSMT: 2025-12-14
+2025-12-14 17:51:27,455 - INFO - Fetching URL: https://xoso.com.vn/xsmt-14-12-2025.html
+2025-12-14 17:51:28,992 - INFO - Response status: 408
+2025-12-14 17:51:28,992 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmt-14-12-2025.html, status code: 408
+2025-12-14 17:51:28,992 - WARNING - No data or invalid data for XSMT on 2025-12-14
+2025-12-14 17:51:28,992 - ERROR - No valid XSMT data fetched
+2025-12-14 17:51:28,992 - INFO - Lottery Data Fetch Summary:
+XSMT: failed
