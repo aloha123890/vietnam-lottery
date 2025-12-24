@@ -1,21 +1,12 @@
-2025-12-24 16:53:25,226 - INFO - Date range: 2025-12-24 to 2025-12-24
-2025-12-24 16:53:25,304 - INFO - Fetching XSMN from 2025-12-24 to 2025-12-24
-2025-12-24 16:53:25,340 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-23
-2025-12-24 16:53:25,340 - INFO - Successfully loaded existing data from data/xsmn.json
-2025-12-24 16:53:25,341 - INFO - Fetching XSMN: 2025-12-24
-2025-12-24 16:53:25,341 - INFO - Fetching URL: https://xoso.com.vn/xsmn-24-12-2025.html
-2025-12-24 16:53:25,782 - INFO - Response status: 200
-2025-12-24 16:53:25,799 - INFO - Found provinces: Đồng Nai, Cần Thơ, Sóc Trăng
-2025-12-24 16:53:25,800 - INFO - Successfully processed data for Đồng Nai on 2025-12-24
-2025-12-24 16:53:25,800 - INFO - Successfully processed data for Cần Thơ on 2025-12-24
-2025-12-24 16:53:25,800 - INFO - Successfully processed data for Sóc Trăng on 2025-12-24
-2025-12-24 16:53:25,800 - INFO - Successfully fetched 3 results for date 2025-12-24
-2025-12-24 16:53:25,835 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-24
-2025-12-24 16:53:25,844 - INFO - Saved 437 results to data/xsmn.json
-2025-12-24 16:53:25,869 - INFO - Saved 437 records to data/xsmn.csv and data/xsmn.parquet
-2025-12-24 16:53:25,874 - INFO - Saved 437 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2025-12-24 16:53:25,890 - INFO - Saved 437 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2025-12-24 16:53:25,905 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2025-12-24 16:53:25,905 - INFO - Successfully fetched 1/1 days of XSMN data
-2025-12-24 16:53:25,905 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2025-12-24 17:53:53,973 - INFO - Date range: 2025-12-24 to 2025-12-24
+2025-12-24 17:53:54,050 - INFO - Fetching XSMT from 2025-12-24 to 2025-12-24
+2025-12-24 17:53:54,081 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-23
+2025-12-24 17:53:54,081 - INFO - Successfully loaded existing data from data/xsmt.json
+2025-12-24 17:53:54,082 - INFO - Fetching XSMT: 2025-12-24
+2025-12-24 17:53:54,082 - INFO - Fetching URL: https://xoso.com.vn/xsmt-24-12-2025.html
+2025-12-24 17:53:56,182 - INFO - Response status: 408
+2025-12-24 17:53:56,182 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmt-24-12-2025.html, status code: 408
+2025-12-24 17:53:56,182 - WARNING - No data or invalid data for XSMT on 2025-12-24
+2025-12-24 17:53:56,182 - ERROR - No valid XSMT data fetched
+2025-12-24 17:53:56,182 - INFO - Lottery Data Fetch Summary:
+XSMT: failed
