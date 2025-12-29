@@ -1,28 +1,17 @@
-2025-12-29 17:55:39,855 - INFO - Date range: 2025-12-28 to 2025-12-29
-2025-12-29 17:55:39,933 - INFO - Fetching XSMT from 2025-12-28 to 2025-12-29
-2025-12-29 17:55:39,964 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-27
-2025-12-29 17:55:39,965 - INFO - Successfully loaded existing data from data/xsmt.json
-2025-12-29 17:55:39,965 - INFO - Fetching XSMT: 2025-12-28
-2025-12-29 17:55:39,965 - INFO - Fetching URL: https://xoso.com.vn/xsmt-28-12-2025.html
-2025-12-29 17:55:41,470 - INFO - Response status: 200
-2025-12-29 17:55:41,491 - INFO - Found provinces: Huế, Kon Tum, Khánh Hòa
-2025-12-29 17:55:41,495 - INFO - Successfully processed data for Huế on 2025-12-28
-2025-12-29 17:55:41,495 - INFO - Successfully processed data for Kon Tum on 2025-12-28
-2025-12-29 17:55:41,495 - INFO - Successfully processed data for Khánh Hòa on 2025-12-28
-2025-12-29 17:55:41,495 - INFO - Successfully fetched 3 results for date 2025-12-28
-2025-12-29 17:55:41,495 - INFO - Fetching XSMT: 2025-12-29
-2025-12-29 17:55:41,495 - INFO - Fetching URL: https://xoso.com.vn/xsmt-29-12-2025.html
-2025-12-29 17:55:42,186 - INFO - Response status: 200
-2025-12-29 17:55:42,205 - INFO - Found provinces: Huế, Phú Yên
-2025-12-29 17:55:42,206 - INFO - Successfully processed data for Huế on 2025-12-29
-2025-12-29 17:55:42,206 - INFO - Successfully processed data for Phú Yên on 2025-12-29
-2025-12-29 17:55:42,206 - INFO - Successfully fetched 2 results for date 2025-12-29
-2025-12-29 17:55:42,233 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-29
-2025-12-29 17:55:42,241 - INFO - Saved 350 results to data/xsmt.json
-2025-12-29 17:55:42,262 - INFO - Saved 350 records to data/xsmt.csv and data/xsmt.parquet
-2025-12-29 17:55:42,267 - INFO - Saved 350 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
-2025-12-29 17:55:42,281 - INFO - Saved 350 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
-2025-12-29 17:55:42,295 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
-2025-12-29 17:55:42,296 - INFO - Successfully fetched 2/2 days of XSMT data
-2025-12-29 17:55:42,296 - INFO - Lottery Data Fetch Summary:
-XSMT: succeeded
+2025-12-29 18:53:46,646 - INFO - Date range: 2025-12-29 to 2025-12-29
+2025-12-29 18:53:46,724 - INFO - Fetching XSMB from 2025-12-29 to 2025-12-29
+2025-12-29 18:53:46,745 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-28
+2025-12-29 18:53:46,746 - INFO - Successfully loaded existing data from data/xsmb.json
+2025-12-29 18:53:46,746 - INFO - Fetching XSMB: 2025-12-29
+2025-12-29 18:53:46,746 - INFO - Fetching URL: https://xoso.com.vn/xsmb-29-12-2025.html
+2025-12-29 18:53:47,642 - INFO - Response status: 200
+2025-12-29 18:53:47,665 - INFO - Successfully fetched data for 2025-12-29
+2025-12-29 18:53:47,688 - INFO - Generated dataframes with data from 2025-08-08 to 2025-12-29
+2025-12-29 18:53:47,692 - INFO - Saved 144 results to data/xsmb.json
+2025-12-29 18:53:47,732 - INFO - Saved 144 records to data/xsmb.csv and data/xsmb.parquet
+2025-12-29 18:53:47,737 - INFO - Saved 144 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
+2025-12-29 18:53:47,748 - INFO - Saved 144 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
+2025-12-29 18:53:47,761 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
+2025-12-29 18:53:47,762 - INFO - Successfully fetched 1/1 days of XSMB data
+2025-12-29 18:53:47,762 - INFO - Lottery Data Fetch Summary:
+XSMB: succeeded
