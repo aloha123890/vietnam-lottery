@@ -1,12 +1,20 @@
-2026-01-06 16:56:24,653 - INFO - Date range: 2026-01-06 to 2026-01-06
-2026-01-06 16:56:24,731 - INFO - Fetching XSMN from 2026-01-06 to 2026-01-06
-2026-01-06 16:56:24,769 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-05
-2026-01-06 16:56:24,770 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-01-06 16:56:24,770 - INFO - Fetching XSMN: 2026-01-06
-2026-01-06 16:56:24,770 - INFO - Fetching URL: https://xoso.com.vn/xsmn-06-01-2026.html
-2026-01-06 16:56:25,531 - INFO - Response status: 408
-2026-01-06 16:56:25,531 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmn-06-01-2026.html, status code: 408
-2026-01-06 16:56:25,531 - WARNING - No data or invalid data for XSMN on 2026-01-06
-2026-01-06 16:56:25,531 - ERROR - No valid XSMN data fetched
-2026-01-06 16:56:25,531 - INFO - Lottery Data Fetch Summary:
-XSMN: failed
+2026-01-06 17:56:26,349 - INFO - Date range: 2026-01-06 to 2026-01-06
+2026-01-06 17:56:26,425 - INFO - Fetching XSMT from 2026-01-06 to 2026-01-06
+2026-01-06 17:56:26,457 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-05
+2026-01-06 17:56:26,457 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-01-06 17:56:26,458 - INFO - Fetching XSMT: 2026-01-06
+2026-01-06 17:56:26,458 - INFO - Fetching URL: https://xoso.com.vn/xsmt-06-01-2026.html
+2026-01-06 17:56:32,274 - INFO - Response status: 200
+2026-01-06 17:56:32,289 - INFO - Found provinces: Đắk Lắk, Quảng Nam
+2026-01-06 17:56:32,290 - INFO - Successfully processed data for Đắk Lắk on 2026-01-06
+2026-01-06 17:56:32,290 - INFO - Successfully processed data for Quảng Nam on 2026-01-06
+2026-01-06 17:56:32,290 - INFO - Successfully fetched 2 results for date 2026-01-06
+2026-01-06 17:56:32,318 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-06
+2026-01-06 17:56:32,326 - INFO - Saved 369 results to data/xsmt.json
+2026-01-06 17:56:32,368 - INFO - Saved 369 records to data/xsmt.csv and data/xsmt.parquet
+2026-01-06 17:56:32,373 - INFO - Saved 369 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-01-06 17:56:32,387 - INFO - Saved 369 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-01-06 17:56:32,402 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-01-06 17:56:32,403 - INFO - Successfully fetched 1/1 days of XSMT data
+2026-01-06 17:56:32,403 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
