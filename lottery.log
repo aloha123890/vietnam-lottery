@@ -1,29 +1,12 @@
-2026-01-08 16:57:31,908 - INFO - Date range: 2026-01-07 to 2026-01-08
-2026-01-08 16:57:31,987 - INFO - Fetching XSMN from 2026-01-07 to 2026-01-08
-2026-01-08 16:57:32,027 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-06
-2026-01-08 16:57:32,028 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-01-08 16:57:32,028 - INFO - Fetching XSMN: 2026-01-07
-2026-01-08 16:57:32,028 - INFO - Fetching URL: https://xoso.com.vn/xsmn-07-01-2026.html
-2026-01-08 16:57:33,044 - INFO - Response status: 200
-2026-01-08 16:57:33,069 - INFO - Found provinces: Đồng Nai, Cần Thơ, Sóc Trăng
-2026-01-08 16:57:33,070 - INFO - Successfully processed data for Đồng Nai on 2026-01-07
-2026-01-08 16:57:33,070 - INFO - Successfully processed data for Cần Thơ on 2026-01-07
-2026-01-08 16:57:33,070 - INFO - Successfully processed data for Sóc Trăng on 2026-01-07
-2026-01-08 16:57:33,070 - INFO - Successfully fetched 3 results for date 2026-01-07
-2026-01-08 16:57:33,070 - INFO - Fetching XSMN: 2026-01-08
-2026-01-08 16:57:33,070 - INFO - Fetching URL: https://xoso.com.vn/xsmn-08-01-2026.html
-2026-01-08 16:57:33,604 - INFO - Response status: 200
-2026-01-08 16:57:33,625 - INFO - Found provinces: Tây Ninh, An Giang, Bình Thuận
-2026-01-08 16:57:33,626 - INFO - Successfully processed data for Tây Ninh on 2026-01-08
-2026-01-08 16:57:33,626 - INFO - Successfully processed data for An Giang on 2026-01-08
-2026-01-08 16:57:33,626 - INFO - Successfully processed data for Bình Thuận on 2026-01-08
-2026-01-08 16:57:33,626 - INFO - Successfully fetched 3 results for date 2026-01-08
-2026-01-08 16:57:33,661 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-08
-2026-01-08 16:57:33,671 - INFO - Saved 484 results to data/xsmn.json
-2026-01-08 16:57:33,798 - INFO - Saved 484 records to data/xsmn.csv and data/xsmn.parquet
-2026-01-08 16:57:33,804 - INFO - Saved 484 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2026-01-08 16:57:33,821 - INFO - Saved 484 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2026-01-08 16:57:33,838 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2026-01-08 16:57:33,838 - INFO - Successfully fetched 2/2 days of XSMN data
-2026-01-08 16:57:33,838 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2026-01-08 17:57:10,210 - INFO - Date range: 2026-01-08 to 2026-01-08
+2026-01-08 17:57:10,290 - INFO - Fetching XSMT from 2026-01-08 to 2026-01-08
+2026-01-08 17:57:10,322 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-07
+2026-01-08 17:57:10,323 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-01-08 17:57:10,323 - INFO - Fetching XSMT: 2026-01-08
+2026-01-08 17:57:10,323 - INFO - Fetching URL: https://xoso.com.vn/xsmt-08-01-2026.html
+2026-01-08 17:57:11,771 - INFO - Response status: 408
+2026-01-08 17:57:11,772 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmt-08-01-2026.html, status code: 408
+2026-01-08 17:57:11,772 - WARNING - No data or invalid data for XSMT on 2026-01-08
+2026-01-08 17:57:11,772 - ERROR - No valid XSMT data fetched
+2026-01-08 17:57:11,772 - INFO - Lottery Data Fetch Summary:
+XSMT: failed
