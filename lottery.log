@@ -1,12 +1,25 @@
-2026-01-10 16:52:14,344 - INFO - Date range: 2026-01-10 to 2026-01-10
-2026-01-10 16:52:14,422 - INFO - Fetching XSMN from 2026-01-10 to 2026-01-10
-2026-01-10 16:52:14,462 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-09
-2026-01-10 16:52:14,463 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-01-10 16:52:14,463 - INFO - Fetching XSMN: 2026-01-10
-2026-01-10 16:52:14,463 - INFO - Fetching URL: https://xoso.com.vn/xsmn-10-01-2026.html
-2026-01-10 16:52:15,536 - INFO - Response status: 408
-2026-01-10 16:52:15,536 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmn-10-01-2026.html, status code: 408
-2026-01-10 16:52:15,537 - WARNING - No data or invalid data for XSMN on 2026-01-10
-2026-01-10 16:52:15,537 - ERROR - No valid XSMN data fetched
-2026-01-10 16:52:15,537 - INFO - Lottery Data Fetch Summary:
-XSMN: failed
+2026-01-10 17:52:30,395 - INFO - Date range: 2026-01-09 to 2026-01-10
+2026-01-10 17:52:30,472 - INFO - Fetching XSMT from 2026-01-09 to 2026-01-10
+2026-01-10 17:52:30,504 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-08
+2026-01-10 17:52:30,505 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-01-10 17:52:30,505 - INFO - Fetching XSMT: 2026-01-09
+2026-01-10 17:52:30,505 - INFO - Fetching URL: https://xoso.com.vn/xsmt-09-01-2026.html
+2026-01-10 17:52:31,575 - INFO - Response status: 200
+2026-01-10 17:52:31,594 - INFO - Found provinces: Gia Lai, Ninh Thuận
+2026-01-10 17:52:31,594 - INFO - Successfully processed data for Gia Lai on 2026-01-09
+2026-01-10 17:52:31,595 - INFO - Successfully processed data for Ninh Thuận on 2026-01-09
+2026-01-10 17:52:31,595 - INFO - Successfully fetched 2 results for date 2026-01-09
+2026-01-10 17:52:31,595 - INFO - Fetching XSMT: 2026-01-10
+2026-01-10 17:52:31,595 - INFO - Fetching URL: https://xoso.com.vn/xsmt-10-01-2026.html
+2026-01-10 17:52:31,950 - INFO - Response status: 408
+2026-01-10 17:52:31,950 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmt-10-01-2026.html, status code: 408
+2026-01-10 17:52:31,950 - WARNING - No data or invalid data for XSMT on 2026-01-10
+2026-01-10 17:52:31,982 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-09
+2026-01-10 17:52:31,990 - INFO - Saved 376 results to data/xsmt.json
+2026-01-10 17:52:32,012 - INFO - Saved 376 records to data/xsmt.csv and data/xsmt.parquet
+2026-01-10 17:52:32,017 - INFO - Saved 376 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-01-10 17:52:32,031 - INFO - Saved 376 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-01-10 17:52:32,047 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-01-10 17:52:32,047 - INFO - Successfully fetched 1/2 days of XSMT data
+2026-01-10 17:52:32,047 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
