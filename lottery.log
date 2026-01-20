@@ -1,17 +1,12 @@
-2026-01-19 18:55:17,831 - INFO - Date range: 2026-01-19 to 2026-01-19
-2026-01-19 18:55:17,907 - INFO - Fetching XSMB from 2026-01-19 to 2026-01-19
-2026-01-19 18:55:17,930 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-18
-2026-01-19 18:55:17,930 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-01-19 18:55:17,930 - INFO - Fetching XSMB: 2026-01-19
-2026-01-19 18:55:17,930 - INFO - Fetching URL: https://xoso.com.vn/xsmb-19-01-2026.html
-2026-01-19 18:55:20,208 - INFO - Response status: 200
-2026-01-19 18:55:20,231 - INFO - Successfully fetched data for 2026-01-19
-2026-01-19 18:55:20,254 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-19
-2026-01-19 18:55:20,259 - INFO - Saved 165 results to data/xsmb.json
-2026-01-19 18:55:20,302 - INFO - Saved 165 records to data/xsmb.csv and data/xsmb.parquet
-2026-01-19 18:55:20,306 - INFO - Saved 165 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-01-19 18:55:20,317 - INFO - Saved 165 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-01-19 18:55:20,332 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-01-19 18:55:20,332 - INFO - Successfully fetched 1/1 days of XSMB data
-2026-01-19 18:55:20,333 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-01-20 16:59:58,704 - INFO - Date range: 2026-01-20 to 2026-01-20
+2026-01-20 16:59:58,782 - INFO - Fetching XSMN from 2026-01-20 to 2026-01-20
+2026-01-20 16:59:58,820 - INFO - Generated dataframes with data from 2025-08-08 to 2026-01-19
+2026-01-20 16:59:58,821 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-01-20 16:59:58,821 - INFO - Fetching XSMN: 2026-01-20
+2026-01-20 16:59:58,821 - INFO - Fetching URL: https://xoso.com.vn/xsmn-20-01-2026.html
+2026-01-20 17:00:00,000 - INFO - Response status: 408
+2026-01-20 17:00:00,000 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmn-20-01-2026.html, status code: 408
+2026-01-20 17:00:00,000 - WARNING - No data or invalid data for XSMN on 2026-01-20
+2026-01-20 17:00:00,000 - ERROR - No valid XSMN data fetched
+2026-01-20 17:00:00,001 - INFO - Lottery Data Fetch Summary:
+XSMN: failed
