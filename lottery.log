@@ -1,20 +1,22 @@
-2026-02-18 18:26:01,205 - INFO - Date range: 2026-02-18 to 2026-02-18
-2026-02-18 18:26:01,283 - INFO - Fetching XSMT from 2026-02-18 to 2026-02-18
-2026-02-18 18:26:01,325 - INFO - Generated dataframes with data from 2025-08-08 to 2026-02-17
-2026-02-18 18:26:01,325 - INFO - Successfully loaded existing data from data/xsmt.json
-2026-02-18 18:26:01,326 - INFO - Fetching XSMT: 2026-02-18
-2026-02-18 18:26:01,326 - INFO - Fetching URL: https://xoso.com.vn/xsmt-18-02-2026.html
-2026-02-18 18:26:02,123 - INFO - Response status: 200
-2026-02-18 18:26:02,143 - INFO - Found provinces: Đà Nẵng, Khánh Hòa
-2026-02-18 18:26:02,143 - INFO - Successfully processed data for Đà Nẵng on 2026-02-18
-2026-02-18 18:26:02,143 - INFO - Successfully processed data for Khánh Hòa on 2026-02-18
-2026-02-18 18:26:02,144 - INFO - Successfully fetched 2 results for date 2026-02-18
-2026-02-18 18:26:02,178 - INFO - Generated dataframes with data from 2025-08-08 to 2026-02-18
-2026-02-18 18:26:02,188 - INFO - Saved 473 results to data/xsmt.json
-2026-02-18 18:26:02,200 - INFO - Saved 473 records to data/xsmt.csv and data/xsmt.parquet
-2026-02-18 18:26:02,209 - INFO - Saved 473 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
-2026-02-18 18:26:02,225 - INFO - Saved 473 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
-2026-02-18 18:26:02,245 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
-2026-02-18 18:26:02,245 - INFO - Successfully fetched 1/1 days of XSMT data
-2026-02-18 18:26:02,246 - INFO - Lottery Data Fetch Summary:
-XSMT: succeeded
+2026-02-18 19:27:11,914 - INFO - Date range: 2026-02-16 to 2026-02-18
+2026-02-18 19:27:11,992 - INFO - Fetching XSMB from 2026-02-16 to 2026-02-18
+2026-02-18 19:27:12,020 - INFO - Generated dataframes with data from 2025-08-08 to 2026-02-15
+2026-02-18 19:27:12,020 - INFO - Successfully loaded existing data from data/xsmb.json
+2026-02-18 19:27:12,020 - INFO - Fetching XSMB: 2026-02-16
+2026-02-18 19:27:12,020 - INFO - Fetching URL: https://xoso.com.vn/xsmb-16-02-2026.html
+2026-02-18 19:27:12,765 - INFO - Response status: 200
+2026-02-18 19:27:12,785 - ERROR - Could not find result table
+2026-02-18 19:27:12,785 - WARNING - No data or invalid data for XSMB on 2026-02-16
+2026-02-18 19:27:12,785 - INFO - Fetching XSMB: 2026-02-17
+2026-02-18 19:27:12,785 - INFO - Fetching URL: https://xoso.com.vn/xsmb-17-02-2026.html
+2026-02-18 19:27:13,305 - INFO - Response status: 200
+2026-02-18 19:27:13,328 - ERROR - Could not find result table
+2026-02-18 19:27:13,328 - WARNING - No data or invalid data for XSMB on 2026-02-17
+2026-02-18 19:27:13,328 - INFO - Fetching XSMB: 2026-02-18
+2026-02-18 19:27:13,329 - INFO - Fetching URL: https://xoso.com.vn/xsmb-18-02-2026.html
+2026-02-18 19:27:14,027 - INFO - Response status: 200
+2026-02-18 19:27:14,049 - WARNING - Skipping XSMB for 2026-02-18 due to incomplete data: ........................
+2026-02-18 19:27:14,049 - WARNING - No data or invalid data for XSMB on 2026-02-18
+2026-02-18 19:27:14,049 - ERROR - No valid XSMB data fetched
+2026-02-18 19:27:14,049 - INFO - Lottery Data Fetch Summary:
+XSMB: failed
