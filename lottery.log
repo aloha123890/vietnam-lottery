@@ -1,37 +1,12 @@
-2026-02-20 19:02:17,670 - INFO - Date range: 2026-02-16 to 2026-02-20
-2026-02-20 19:02:17,747 - INFO - Fetching XSMB from 2026-02-16 to 2026-02-20
-2026-02-20 19:02:17,774 - INFO - Generated dataframes with data from 2025-08-08 to 2026-02-15
-2026-02-20 19:02:17,775 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-02-20 19:02:17,775 - INFO - Fetching XSMB: 2026-02-16
-2026-02-20 19:02:17,775 - INFO - Fetching URL: https://xoso.com.vn/xsmb-16-02-2026.html
-2026-02-20 19:02:18,789 - INFO - Response status: 200
-2026-02-20 19:02:18,809 - ERROR - Could not find result table
-2026-02-20 19:02:18,809 - WARNING - No data or invalid data for XSMB on 2026-02-16
-2026-02-20 19:02:18,809 - INFO - Fetching XSMB: 2026-02-17
-2026-02-20 19:02:18,809 - INFO - Fetching URL: https://xoso.com.vn/xsmb-17-02-2026.html
-2026-02-20 19:02:19,430 - INFO - Response status: 200
-2026-02-20 19:02:19,454 - ERROR - Could not find result table
-2026-02-20 19:02:19,454 - WARNING - No data or invalid data for XSMB on 2026-02-17
-2026-02-20 19:02:19,455 - INFO - Fetching XSMB: 2026-02-18
-2026-02-20 19:02:19,455 - INFO - Fetching URL: https://xoso.com.vn/xsmb-18-02-2026.html
-2026-02-20 19:02:20,086 - INFO - Response status: 200
-2026-02-20 19:02:20,106 - ERROR - Could not find result table
-2026-02-20 19:02:20,106 - WARNING - No data or invalid data for XSMB on 2026-02-18
-2026-02-20 19:02:20,106 - INFO - Fetching XSMB: 2026-02-19
-2026-02-20 19:02:20,106 - INFO - Fetching URL: https://xoso.com.vn/xsmb-19-02-2026.html
-2026-02-20 19:02:23,090 - INFO - Response status: 200
-2026-02-20 19:02:23,112 - ERROR - Could not find result table
-2026-02-20 19:02:23,112 - WARNING - No data or invalid data for XSMB on 2026-02-19
-2026-02-20 19:02:23,112 - INFO - Fetching XSMB: 2026-02-20
-2026-02-20 19:02:23,112 - INFO - Fetching URL: https://xoso.com.vn/xsmb-20-02-2026.html
-2026-02-20 19:02:23,870 - INFO - Response status: 200
-2026-02-20 19:02:23,915 - INFO - Successfully fetched data for 2026-02-20
-2026-02-20 19:02:23,941 - INFO - Generated dataframes with data from 2025-08-08 to 2026-02-20
-2026-02-20 19:02:23,946 - INFO - Saved 193 results to data/xsmb.json
-2026-02-20 19:02:23,957 - INFO - Saved 193 records to data/xsmb.csv and data/xsmb.parquet
-2026-02-20 19:02:23,962 - INFO - Saved 193 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-02-20 19:02:23,974 - INFO - Saved 193 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-02-20 19:02:23,992 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-02-20 19:02:23,992 - INFO - Successfully fetched 1/5 days of XSMB data
-2026-02-20 19:02:23,992 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-02-21 16:58:33,144 - INFO - Date range: 2026-02-21 to 2026-02-21
+2026-02-21 16:58:33,219 - INFO - Fetching XSMN from 2026-02-21 to 2026-02-21
+2026-02-21 16:58:33,269 - INFO - Generated dataframes with data from 2025-08-08 to 2026-02-20
+2026-02-21 16:58:33,270 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-02-21 16:58:33,271 - INFO - Fetching XSMN: 2026-02-21
+2026-02-21 16:58:33,271 - INFO - Fetching URL: https://xoso.com.vn/xsmn-21-02-2026.html
+2026-02-21 16:58:34,457 - INFO - Response status: 408
+2026-02-21 16:58:34,458 - ERROR - Failed to fetch URL https://xoso.com.vn/xsmn-21-02-2026.html, status code: 408
+2026-02-21 16:58:34,458 - WARNING - No data or invalid data for XSMN on 2026-02-21
+2026-02-21 16:58:34,458 - ERROR - No valid XSMN data fetched
+2026-02-21 16:58:34,458 - INFO - Lottery Data Fetch Summary:
+XSMN: failed
