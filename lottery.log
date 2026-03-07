@@ -1,17 +1,20 @@
-2026-03-06 19:01:08,681 - INFO - Date range: 2026-03-06 to 2026-03-06
-2026-03-06 19:01:08,761 - INFO - Fetching XSMB from 2026-03-06 to 2026-03-06
-2026-03-06 19:01:08,792 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-05
-2026-03-06 19:01:08,792 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-03-06 19:01:08,792 - INFO - Fetching XSMB: 2026-03-06
-2026-03-06 19:01:08,792 - INFO - Fetching URL: https://xoso.com.vn/xsmb-06-03-2026.html
-2026-03-06 19:01:09,379 - INFO - Response status: 200
-2026-03-06 19:01:09,402 - INFO - Successfully fetched data for 2026-03-06
-2026-03-06 19:01:09,429 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-06
-2026-03-06 19:01:09,435 - INFO - Saved 207 results to data/xsmb.json
-2026-03-06 19:01:09,447 - INFO - Saved 207 records to data/xsmb.csv and data/xsmb.parquet
-2026-03-06 19:01:09,452 - INFO - Saved 207 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-03-06 19:01:09,464 - INFO - Saved 207 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-03-06 19:01:09,484 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-03-06 19:01:09,485 - INFO - Successfully fetched 1/1 days of XSMB data
-2026-03-06 19:01:09,485 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-03-07 16:57:24,301 - INFO - Date range: 2026-03-07 to 2026-03-07
+2026-03-07 16:57:24,379 - INFO - Fetching XSMN from 2026-03-07 to 2026-03-07
+2026-03-07 16:57:24,432 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-06
+2026-03-07 16:57:24,433 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-03-07 16:57:24,433 - INFO - Fetching XSMN: 2026-03-07
+2026-03-07 16:57:24,433 - INFO - Fetching URL: https://xoso.com.vn/xsmn-07-03-2026.html
+2026-03-07 16:57:30,014 - INFO - Response status: 200
+2026-03-07 16:57:30,030 - INFO - Found provinces: TPHCM, Long An
+2026-03-07 16:57:30,030 - INFO - Successfully processed data for TPHCM on 2026-03-07
+2026-03-07 16:57:30,030 - INFO - Successfully processed data for Long An on 2026-03-07
+2026-03-07 16:57:30,030 - INFO - Successfully fetched 2 results for date 2026-03-07
+2026-03-07 16:57:30,074 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-07
+2026-03-07 16:57:30,087 - INFO - Saved 665 results to data/xsmn.json
+2026-03-07 16:57:30,103 - INFO - Saved 665 records to data/xsmn.csv and data/xsmn.parquet
+2026-03-07 16:57:30,109 - INFO - Saved 665 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
+2026-03-07 16:57:30,128 - INFO - Saved 665 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
+2026-03-07 16:57:30,150 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
+2026-03-07 16:57:30,151 - INFO - Successfully fetched 1/1 days of XSMN data
+2026-03-07 16:57:30,151 - INFO - Lottery Data Fetch Summary:
+XSMN: succeeded
