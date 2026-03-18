@@ -1,17 +1,21 @@
-2026-03-17 19:34:41,150 - INFO - Date range: 2026-03-17 to 2026-03-17
-2026-03-17 19:34:41,225 - INFO - Fetching XSMB from 2026-03-17 to 2026-03-17
-2026-03-17 19:34:41,252 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-16
-2026-03-17 19:34:41,252 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-03-17 19:34:41,252 - INFO - Fetching XSMB: 2026-03-17
-2026-03-17 19:34:41,252 - INFO - Fetching URL: https://xoso.com.vn/xsmb-17-03-2026.html
-2026-03-17 19:34:42,377 - INFO - Response status: 200
-2026-03-17 19:34:42,400 - INFO - Successfully fetched data for 2026-03-17
-2026-03-17 19:34:42,424 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-17
-2026-03-17 19:34:42,430 - INFO - Saved 218 results to data/xsmb.json
-2026-03-17 19:34:42,441 - INFO - Saved 218 records to data/xsmb.csv and data/xsmb.parquet
-2026-03-17 19:34:42,446 - INFO - Saved 218 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-03-17 19:34:42,457 - INFO - Saved 218 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-03-17 19:34:42,476 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-03-17 19:34:42,476 - INFO - Successfully fetched 1/1 days of XSMB data
-2026-03-17 19:34:42,476 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-03-18 17:36:27,401 - INFO - Date range: 2026-03-18 to 2026-03-18
+2026-03-18 17:36:27,479 - INFO - Fetching XSMN from 2026-03-18 to 2026-03-18
+2026-03-18 17:36:27,534 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-17
+2026-03-18 17:36:27,535 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-03-18 17:36:27,536 - INFO - Fetching XSMN: 2026-03-18
+2026-03-18 17:36:27,536 - INFO - Fetching URL: https://xoso.com.vn/xsmn-18-03-2026.html
+2026-03-18 17:36:29,301 - INFO - Response status: 200
+2026-03-18 17:36:29,325 - INFO - Found provinces: Đồng Nai, Cần Thơ, Sóc Trăng
+2026-03-18 17:36:29,325 - INFO - Successfully processed data for Đồng Nai on 2026-03-18
+2026-03-18 17:36:29,326 - INFO - Successfully processed data for Cần Thơ on 2026-03-18
+2026-03-18 17:36:29,326 - INFO - Successfully processed data for Sóc Trăng on 2026-03-18
+2026-03-18 17:36:29,326 - INFO - Successfully fetched 3 results for date 2026-03-18
+2026-03-18 17:36:29,372 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-18
+2026-03-18 17:36:29,404 - INFO - Saved 699 results to data/xsmn.json
+2026-03-18 17:36:29,420 - INFO - Saved 699 records to data/xsmn.csv and data/xsmn.parquet
+2026-03-18 17:36:29,460 - INFO - Saved 699 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
+2026-03-18 17:36:29,518 - INFO - Saved 699 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
+2026-03-18 17:36:29,555 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
+2026-03-18 17:36:29,556 - INFO - Successfully fetched 1/1 days of XSMN data
+2026-03-18 17:36:29,556 - INFO - Lottery Data Fetch Summary:
+XSMN: succeeded
