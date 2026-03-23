@@ -1,20 +1,17 @@
-2026-03-23 18:30:33,380 - INFO - Date range: 2026-03-23 to 2026-03-23
-2026-03-23 18:30:33,456 - INFO - Fetching XSMT from 2026-03-23 to 2026-03-23
-2026-03-23 18:30:33,503 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-22
-2026-03-23 18:30:33,504 - INFO - Successfully loaded existing data from data/xsmt.json
-2026-03-23 18:30:33,504 - INFO - Fetching XSMT: 2026-03-23
-2026-03-23 18:30:33,504 - INFO - Fetching URL: https://xoso.com.vn/xsmt-23-03-2026.html
-2026-03-23 18:30:34,026 - INFO - Response status: 200
-2026-03-23 18:30:34,049 - INFO - Found provinces: Huế, Phú Yên
-2026-03-23 18:30:34,049 - INFO - Successfully processed data for Huế on 2026-03-23
-2026-03-23 18:30:34,050 - INFO - Successfully processed data for Phú Yên on 2026-03-23
-2026-03-23 18:30:34,050 - INFO - Successfully fetched 2 results for date 2026-03-23
-2026-03-23 18:30:34,089 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-23
-2026-03-23 18:30:34,100 - INFO - Saved 550 results to data/xsmt.json
-2026-03-23 18:30:34,113 - INFO - Saved 550 records to data/xsmt.csv and data/xsmt.parquet
-2026-03-23 18:30:34,119 - INFO - Saved 550 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
-2026-03-23 18:30:34,136 - INFO - Saved 550 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
-2026-03-23 18:30:34,160 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
-2026-03-23 18:30:34,160 - INFO - Successfully fetched 1/1 days of XSMT data
-2026-03-23 18:30:34,160 - INFO - Lottery Data Fetch Summary:
-XSMT: succeeded
+2026-03-23 19:32:57,211 - INFO - Date range: 2026-03-23 to 2026-03-23
+2026-03-23 19:32:57,293 - INFO - Fetching XSMB from 2026-03-23 to 2026-03-23
+2026-03-23 19:32:57,325 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-22
+2026-03-23 19:32:57,326 - INFO - Successfully loaded existing data from data/xsmb.json
+2026-03-23 19:32:57,326 - INFO - Fetching XSMB: 2026-03-23
+2026-03-23 19:32:57,326 - INFO - Fetching URL: https://xoso.com.vn/xsmb-23-03-2026.html
+2026-03-23 19:32:57,876 - INFO - Response status: 200
+2026-03-23 19:32:57,903 - INFO - Successfully fetched data for 2026-03-23
+2026-03-23 19:32:57,930 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-23
+2026-03-23 19:32:57,936 - INFO - Saved 224 results to data/xsmb.json
+2026-03-23 19:32:57,948 - INFO - Saved 224 records to data/xsmb.csv and data/xsmb.parquet
+2026-03-23 19:32:57,953 - INFO - Saved 224 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
+2026-03-23 19:32:57,965 - INFO - Saved 224 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
+2026-03-23 19:32:57,986 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
+2026-03-23 19:32:57,987 - INFO - Successfully fetched 1/1 days of XSMB data
+2026-03-23 19:32:57,987 - INFO - Lottery Data Fetch Summary:
+XSMB: succeeded
