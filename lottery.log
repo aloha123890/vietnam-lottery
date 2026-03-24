@@ -1,21 +1,20 @@
-2026-03-24 17:35:33,027 - INFO - Date range: 2026-03-24 to 2026-03-24
-2026-03-24 17:35:33,103 - INFO - Fetching XSMN from 2026-03-24 to 2026-03-24
-2026-03-24 17:35:33,159 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-23
-2026-03-24 17:35:33,160 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-03-24 17:35:33,160 - INFO - Fetching XSMN: 2026-03-24
-2026-03-24 17:35:33,161 - INFO - Fetching URL: https://xoso.com.vn/xsmn-24-03-2026.html
-2026-03-24 17:35:40,293 - INFO - Response status: 200
-2026-03-24 17:35:40,316 - INFO - Found provinces: Bến Tre, Vũng Tàu, Bạc Liêu
-2026-03-24 17:35:40,317 - INFO - Successfully processed data for Bến Tre on 2026-03-24
-2026-03-24 17:35:40,317 - INFO - Successfully processed data for Vũng Tàu on 2026-03-24
-2026-03-24 17:35:40,317 - INFO - Successfully processed data for Bạc Liêu on 2026-03-24
-2026-03-24 17:35:40,317 - INFO - Successfully fetched 3 results for date 2026-03-24
-2026-03-24 17:35:40,364 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-24
-2026-03-24 17:35:40,379 - INFO - Saved 718 results to data/xsmn.json
-2026-03-24 17:35:40,393 - INFO - Saved 718 records to data/xsmn.csv and data/xsmn.parquet
-2026-03-24 17:35:40,400 - INFO - Saved 718 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2026-03-24 17:35:40,420 - INFO - Saved 718 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2026-03-24 17:35:40,444 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2026-03-24 17:35:40,445 - INFO - Successfully fetched 1/1 days of XSMN data
-2026-03-24 17:35:40,445 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2026-03-24 18:31:32,495 - INFO - Date range: 2026-03-24 to 2026-03-24
+2026-03-24 18:31:32,573 - INFO - Fetching XSMT from 2026-03-24 to 2026-03-24
+2026-03-24 18:31:32,621 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-23
+2026-03-24 18:31:32,622 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-03-24 18:31:32,622 - INFO - Fetching XSMT: 2026-03-24
+2026-03-24 18:31:32,622 - INFO - Fetching URL: https://xoso.com.vn/xsmt-24-03-2026.html
+2026-03-24 18:31:33,621 - INFO - Response status: 200
+2026-03-24 18:31:33,643 - INFO - Found provinces: Đắk Lắk, Quảng Nam
+2026-03-24 18:31:33,644 - INFO - Successfully processed data for Đắk Lắk on 2026-03-24
+2026-03-24 18:31:33,644 - INFO - Successfully processed data for Quảng Nam on 2026-03-24
+2026-03-24 18:31:33,644 - INFO - Successfully fetched 2 results for date 2026-03-24
+2026-03-24 18:31:33,684 - INFO - Generated dataframes with data from 2025-08-08 to 2026-03-24
+2026-03-24 18:31:33,695 - INFO - Saved 552 results to data/xsmt.json
+2026-03-24 18:31:33,708 - INFO - Saved 552 records to data/xsmt.csv and data/xsmt.parquet
+2026-03-24 18:31:33,713 - INFO - Saved 552 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-03-24 18:31:33,731 - INFO - Saved 552 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-03-24 18:31:33,754 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-03-24 18:31:33,755 - INFO - Successfully fetched 1/1 days of XSMT data
+2026-03-24 18:31:33,755 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
