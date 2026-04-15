@@ -1,20 +1,17 @@
-2026-04-15 18:39:27,635 - INFO - Date range: 2026-04-15 to 2026-04-15
-2026-04-15 18:39:27,710 - INFO - Fetching XSMT from 2026-04-15 to 2026-04-15
-2026-04-15 18:39:27,759 - INFO - Generated dataframes with data from 2025-08-08 to 2026-04-14
-2026-04-15 18:39:27,761 - INFO - Successfully loaded existing data from data/xsmt.json
-2026-04-15 18:39:27,761 - INFO - Fetching XSMT: 2026-04-15
-2026-04-15 18:39:27,761 - INFO - Fetching URL: https://xoso.com.vn/xsmt-15-04-2026.html
-2026-04-15 18:39:28,303 - INFO - Response status: 200
-2026-04-15 18:39:28,323 - INFO - Found provinces: Đà Nẵng, Khánh Hòa
-2026-04-15 18:39:28,323 - INFO - Successfully processed data for Đà Nẵng on 2026-04-15
-2026-04-15 18:39:28,324 - INFO - Successfully processed data for Khánh Hòa on 2026-04-15
-2026-04-15 18:39:28,324 - INFO - Successfully fetched 2 results for date 2026-04-15
-2026-04-15 18:39:28,364 - INFO - Generated dataframes with data from 2025-08-08 to 2026-04-15
-2026-04-15 18:39:28,376 - INFO - Saved 604 results to data/xsmt.json
-2026-04-15 18:39:28,389 - INFO - Saved 604 records to data/xsmt.csv and data/xsmt.parquet
-2026-04-15 18:39:28,394 - INFO - Saved 604 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
-2026-04-15 18:39:28,412 - INFO - Saved 604 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
-2026-04-15 18:39:28,437 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
-2026-04-15 18:39:28,437 - INFO - Successfully fetched 1/1 days of XSMT data
-2026-04-15 18:39:28,437 - INFO - Lottery Data Fetch Summary:
-XSMT: succeeded
+2026-04-15 19:47:44,874 - INFO - Date range: 2026-04-15 to 2026-04-15
+2026-04-15 19:47:44,948 - INFO - Fetching XSMB from 2026-04-15 to 2026-04-15
+2026-04-15 19:47:44,977 - INFO - Generated dataframes with data from 2025-08-08 to 2026-04-14
+2026-04-15 19:47:44,978 - INFO - Successfully loaded existing data from data/xsmb.json
+2026-04-15 19:47:44,978 - INFO - Fetching XSMB: 2026-04-15
+2026-04-15 19:47:44,978 - INFO - Fetching URL: https://xoso.com.vn/xsmb-15-04-2026.html
+2026-04-15 19:47:45,721 - INFO - Response status: 200
+2026-04-15 19:47:45,744 - INFO - Successfully fetched data for 2026-04-15
+2026-04-15 19:47:45,770 - INFO - Generated dataframes with data from 2025-08-08 to 2026-04-15
+2026-04-15 19:47:45,777 - INFO - Saved 247 results to data/xsmb.json
+2026-04-15 19:47:45,789 - INFO - Saved 247 records to data/xsmb.csv and data/xsmb.parquet
+2026-04-15 19:47:45,794 - INFO - Saved 247 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
+2026-04-15 19:47:45,806 - INFO - Saved 247 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
+2026-04-15 19:47:45,829 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
+2026-04-15 19:47:45,829 - INFO - Successfully fetched 1/1 days of XSMB data
+2026-04-15 19:47:45,829 - INFO - Lottery Data Fetch Summary:
+XSMB: succeeded
