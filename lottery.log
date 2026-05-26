@@ -1,17 +1,20 @@
-2026-05-25 21:23:14,780 - INFO - Date range: 2026-05-25 to 2026-05-25
-2026-05-25 21:23:14,854 - INFO - Fetching XSMB from 2026-05-25 to 2026-05-25
-2026-05-25 21:23:14,886 - INFO - Generated dataframes with data from 2025-08-08 to 2026-05-24
-2026-05-25 21:23:14,887 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-05-25 21:23:14,887 - INFO - Fetching XSMB: 2026-05-25
-2026-05-25 21:23:14,887 - INFO - Fetching URL: https://xoso.com.vn/xsmb-25-05-2026.html
-2026-05-25 21:23:15,573 - INFO - Response status: 200
-2026-05-25 21:23:15,596 - INFO - Successfully fetched data for 2026-05-25
-2026-05-25 21:23:15,624 - INFO - Generated dataframes with data from 2025-08-08 to 2026-05-25
-2026-05-25 21:23:15,632 - INFO - Saved 287 results to data/xsmb.json
-2026-05-25 21:23:15,644 - INFO - Saved 287 records to data/xsmb.csv and data/xsmb.parquet
-2026-05-25 21:23:15,649 - INFO - Saved 287 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-05-25 21:23:15,662 - INFO - Saved 287 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-05-25 21:23:15,689 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-05-25 21:23:15,690 - INFO - Successfully fetched 1/1 days of XSMB data
-2026-05-25 21:23:15,690 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-05-26 20:40:23,454 - INFO - Date range: 2026-05-26 to 2026-05-26
+2026-05-26 20:40:23,527 - INFO - Fetching XSMT from 2026-05-26 to 2026-05-26
+2026-05-26 20:40:23,582 - INFO - Generated dataframes with data from 2025-08-08 to 2026-05-25
+2026-05-26 20:40:23,583 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-05-26 20:40:23,584 - INFO - Fetching XSMT: 2026-05-26
+2026-05-26 20:40:23,584 - INFO - Fetching URL: https://xoso.com.vn/xsmt-26-05-2026.html
+2026-05-26 20:40:24,330 - INFO - Response status: 200
+2026-05-26 20:40:24,351 - INFO - Found provinces: Đắk Lắk, Quảng Nam
+2026-05-26 20:40:24,352 - INFO - Successfully processed data for Đắk Lắk on 2026-05-26
+2026-05-26 20:40:24,352 - INFO - Successfully processed data for Quảng Nam on 2026-05-26
+2026-05-26 20:40:24,352 - INFO - Successfully fetched 2 results for date 2026-05-26
+2026-05-26 20:40:24,398 - INFO - Generated dataframes with data from 2025-08-08 to 2026-05-26
+2026-05-26 20:40:24,412 - INFO - Saved 704 results to data/xsmt.json
+2026-05-26 20:40:24,426 - INFO - Saved 704 records to data/xsmt.csv and data/xsmt.parquet
+2026-05-26 20:40:24,432 - INFO - Saved 704 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-05-26 20:40:24,452 - INFO - Saved 704 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-05-26 20:40:24,482 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-05-26 20:40:24,482 - INFO - Successfully fetched 1/1 days of XSMT data
+2026-05-26 20:40:24,482 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
