@@ -1,21 +1,21 @@
-2026-06-14 18:46:52,209 - INFO - Date range: 2026-06-14 to 2026-06-14
-2026-06-14 18:46:52,284 - INFO - Fetching XSMN from 2026-06-14 to 2026-06-14
-2026-06-14 18:46:52,356 - INFO - Generated dataframes with data from 2025-08-08 to 2026-06-13
-2026-06-14 18:46:52,358 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-06-14 18:46:52,358 - INFO - Fetching XSMN: 2026-06-14
-2026-06-14 18:46:52,358 - INFO - Fetching URL: https://xoso.com.vn/xsmn-14-06-2026.html
-2026-06-14 18:46:52,861 - INFO - Response status: 200
-2026-06-14 18:46:52,879 - INFO - Found provinces: Tiền Giang, Kiên Giang, Đà Lạt
-2026-06-14 18:46:52,880 - INFO - Successfully processed data for Tiền Giang on 2026-06-14
-2026-06-14 18:46:52,880 - INFO - Successfully processed data for Kiên Giang on 2026-06-14
-2026-06-14 18:46:52,880 - INFO - Successfully processed data for Đà Lạt on 2026-06-14
-2026-06-14 18:46:52,880 - INFO - Successfully fetched 3 results for date 2026-06-14
-2026-06-14 18:46:52,940 - INFO - Generated dataframes with data from 2025-08-08 to 2026-06-14
-2026-06-14 18:46:52,960 - INFO - Saved 976 results to data/xsmn.json
-2026-06-14 18:46:52,975 - INFO - Saved 976 records to data/xsmn.csv and data/xsmn.parquet
-2026-06-14 18:46:52,982 - INFO - Saved 976 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2026-06-14 18:46:53,007 - INFO - Saved 976 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2026-06-14 18:46:53,040 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2026-06-14 18:46:53,040 - INFO - Successfully fetched 1/1 days of XSMN data
-2026-06-14 18:46:53,040 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2026-06-14 19:28:51,706 - INFO - Date range: 2026-06-14 to 2026-06-14
+2026-06-14 19:28:51,779 - INFO - Fetching XSMT from 2026-06-14 to 2026-06-14
+2026-06-14 19:28:51,838 - INFO - Generated dataframes with data from 2025-08-08 to 2026-06-13
+2026-06-14 19:28:51,840 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-06-14 19:28:51,840 - INFO - Fetching XSMT: 2026-06-14
+2026-06-14 19:28:51,840 - INFO - Fetching URL: https://xoso.com.vn/xsmt-14-06-2026.html
+2026-06-14 19:28:53,045 - INFO - Response status: 200
+2026-06-14 19:28:53,059 - INFO - Found provinces: Huế, Kon Tum, Khánh Hòa
+2026-06-14 19:28:53,060 - INFO - Successfully processed data for Huế on 2026-06-14
+2026-06-14 19:28:53,060 - INFO - Successfully processed data for Kon Tum on 2026-06-14
+2026-06-14 19:28:53,060 - INFO - Successfully processed data for Khánh Hòa on 2026-06-14
+2026-06-14 19:28:53,060 - INFO - Successfully fetched 3 results for date 2026-06-14
+2026-06-14 19:28:53,110 - INFO - Generated dataframes with data from 2025-08-08 to 2026-06-14
+2026-06-14 19:28:53,126 - INFO - Saved 751 results to data/xsmt.json
+2026-06-14 19:28:53,141 - INFO - Saved 751 records to data/xsmt.csv and data/xsmt.parquet
+2026-06-14 19:28:53,148 - INFO - Saved 751 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-06-14 19:28:53,169 - INFO - Saved 751 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-06-14 19:28:53,202 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-06-14 19:28:53,202 - INFO - Successfully fetched 1/1 days of XSMT data
+2026-06-14 19:28:53,202 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
