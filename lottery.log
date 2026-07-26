@@ -1,17 +1,21 @@
-2026-07-25 19:46:33,890 - INFO - Date range: 2026-07-25 to 2026-07-25
-2026-07-25 19:46:33,958 - INFO - Fetching XSMB from 2026-07-25 to 2026-07-25
-2026-07-25 19:46:33,999 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-24
-2026-07-25 19:46:34,000 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-07-25 19:46:34,000 - INFO - Fetching XSMB: 2026-07-25
-2026-07-25 19:46:34,000 - INFO - Fetching URL: https://xoso.com.vn/xsmb-25-07-2026.html
-2026-07-25 19:46:34,483 - INFO - Response status: 200
-2026-07-25 19:46:34,502 - INFO - Successfully fetched data for 2026-07-25
-2026-07-25 19:46:34,534 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-25
-2026-07-25 19:46:34,545 - INFO - Saved 348 results to data/xsmb.json
-2026-07-25 19:46:34,557 - INFO - Saved 348 records to data/xsmb.csv and data/xsmb.parquet
-2026-07-25 19:46:34,563 - INFO - Saved 348 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-07-25 19:46:34,577 - INFO - Saved 348 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-07-25 19:46:34,612 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-07-25 19:46:34,613 - INFO - Successfully fetched 1/1 days of XSMB data
-2026-07-25 19:46:34,613 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-07-26 18:09:25,654 - INFO - Date range: 2026-07-26 to 2026-07-26
+2026-07-26 18:09:25,737 - INFO - Fetching XSMN from 2026-07-26 to 2026-07-26
+2026-07-26 18:09:25,834 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-25
+2026-07-26 18:09:25,837 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-07-26 18:09:25,837 - INFO - Fetching XSMN: 2026-07-26
+2026-07-26 18:09:25,837 - INFO - Fetching URL: https://xoso.com.vn/xsmn-26-07-2026.html
+2026-07-26 18:09:26,512 - INFO - Response status: 200
+2026-07-26 18:09:26,530 - INFO - Found provinces: Tiền Giang, Kiên Giang, Đà Lạt
+2026-07-26 18:09:26,531 - INFO - Successfully processed data for Tiền Giang on 2026-07-26
+2026-07-26 18:09:26,531 - INFO - Successfully processed data for Kiên Giang on 2026-07-26
+2026-07-26 18:09:26,531 - INFO - Successfully processed data for Đà Lạt on 2026-07-26
+2026-07-26 18:09:26,531 - INFO - Successfully fetched 3 results for date 2026-07-26
+2026-07-26 18:09:26,598 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-26
+2026-07-26 18:09:26,621 - INFO - Saved 1108 results to data/xsmn.json
+2026-07-26 18:09:26,638 - INFO - Saved 1108 records to data/xsmn.csv and data/xsmn.parquet
+2026-07-26 18:09:26,646 - INFO - Saved 1108 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
+2026-07-26 18:09:26,674 - INFO - Saved 1108 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
+2026-07-26 18:09:26,712 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
+2026-07-26 18:09:26,712 - INFO - Successfully fetched 1/1 days of XSMN data
+2026-07-26 18:09:26,712 - INFO - Lottery Data Fetch Summary:
+XSMN: succeeded
