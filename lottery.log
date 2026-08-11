@@ -1,17 +1,21 @@
-2026-08-10 19:33:47,388 - INFO - Date range: 2026-08-10 to 2026-08-10
-2026-08-10 19:33:47,453 - INFO - Fetching XSMB from 2026-08-10 to 2026-08-10
-2026-08-10 19:33:47,495 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-09
-2026-08-10 19:33:47,495 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-08-10 19:33:47,496 - INFO - Fetching XSMB: 2026-08-10
-2026-08-10 19:33:47,496 - INFO - Fetching URL: https://xoso.com.vn/xsmb-10-08-2026.html
-2026-08-10 19:33:47,912 - INFO - Response status: 200
-2026-08-10 19:33:47,936 - INFO - Successfully fetched data for 2026-08-10
-2026-08-10 19:33:47,969 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-10
-2026-08-10 19:33:47,980 - INFO - Saved 364 results to data/xsmb.json
-2026-08-10 19:33:47,993 - INFO - Saved 364 records to data/xsmb.csv and data/xsmb.parquet
-2026-08-10 19:33:47,998 - INFO - Saved 364 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-08-10 19:33:48,013 - INFO - Saved 364 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-08-10 19:33:48,049 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-08-10 19:33:48,049 - INFO - Successfully fetched 1/1 days of XSMB data
-2026-08-10 19:33:48,049 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-08-11 17:35:01,614 - INFO - Date range: 2026-08-11 to 2026-08-11
+2026-08-11 17:35:01,700 - INFO - Fetching XSMN from 2026-08-11 to 2026-08-11
+2026-08-11 17:35:01,795 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-10
+2026-08-11 17:35:01,797 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-08-11 17:35:01,798 - INFO - Fetching XSMN: 2026-08-11
+2026-08-11 17:35:01,798 - INFO - Fetching URL: https://xoso.com.vn/xsmn-11-08-2026.html
+2026-08-11 17:35:02,463 - INFO - Response status: 200
+2026-08-11 17:35:02,481 - INFO - Found provinces: Bến Tre, Vũng Tàu, Bạc Liêu
+2026-08-11 17:35:02,482 - INFO - Successfully processed data for Bến Tre on 2026-08-11
+2026-08-11 17:35:02,482 - INFO - Successfully processed data for Vũng Tàu on 2026-08-11
+2026-08-11 17:35:02,482 - INFO - Successfully processed data for Bạc Liêu on 2026-08-11
+2026-08-11 17:35:02,482 - INFO - Successfully fetched 3 results for date 2026-08-11
+2026-08-11 17:35:02,551 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-11
+2026-08-11 17:35:02,575 - INFO - Saved 1158 results to data/xsmn.json
+2026-08-11 17:35:02,592 - INFO - Saved 1158 records to data/xsmn.csv and data/xsmn.parquet
+2026-08-11 17:35:02,600 - INFO - Saved 1158 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
+2026-08-11 17:35:02,627 - INFO - Saved 1158 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
+2026-08-11 17:35:02,667 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
+2026-08-11 17:35:02,667 - INFO - Successfully fetched 1/1 days of XSMN data
+2026-08-11 17:35:02,667 - INFO - Lottery Data Fetch Summary:
+XSMN: succeeded
