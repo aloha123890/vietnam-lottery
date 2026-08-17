@@ -1,17 +1,21 @@
-2026-08-16 18:58:43,518 - INFO - Date range: 2026-08-16 to 2026-08-16
-2026-08-16 18:58:43,587 - INFO - Fetching XSMB from 2026-08-16 to 2026-08-16
-2026-08-16 18:58:43,630 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-15
-2026-08-16 18:58:43,631 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-08-16 18:58:43,631 - INFO - Fetching XSMB: 2026-08-16
-2026-08-16 18:58:43,631 - INFO - Fetching URL: https://xoso.com.vn/xsmb-16-08-2026.html
-2026-08-16 18:58:43,867 - INFO - Response status: 200
-2026-08-16 18:58:43,892 - INFO - Successfully fetched data for 2026-08-16
-2026-08-16 18:58:43,927 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-16
-2026-08-16 18:58:43,937 - INFO - Saved 370 results to data/xsmb.json
-2026-08-16 18:58:43,951 - INFO - Saved 370 records to data/xsmb.csv and data/xsmb.parquet
-2026-08-16 18:58:43,957 - INFO - Saved 370 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-08-16 18:58:43,971 - INFO - Saved 370 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-08-16 18:58:44,005 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-08-16 18:58:44,006 - INFO - Successfully fetched 1/1 days of XSMB data
-2026-08-16 18:58:44,006 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-08-17 17:15:45,100 - INFO - Date range: 2026-08-17 to 2026-08-17
+2026-08-17 17:15:45,187 - INFO - Fetching XSMN from 2026-08-17 to 2026-08-17
+2026-08-17 17:15:45,277 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-16
+2026-08-17 17:15:45,279 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-08-17 17:15:45,279 - INFO - Fetching XSMN: 2026-08-17
+2026-08-17 17:15:45,280 - INFO - Fetching URL: https://xoso.com.vn/xsmn-17-08-2026.html
+2026-08-17 17:15:45,791 - INFO - Response status: 200
+2026-08-17 17:15:45,808 - INFO - Found provinces: TPHCM, Đồng Tháp, Cà Mau
+2026-08-17 17:15:45,809 - INFO - Successfully processed data for TPHCM on 2026-08-17
+2026-08-17 17:15:45,809 - INFO - Successfully processed data for Đồng Tháp on 2026-08-17
+2026-08-17 17:15:45,809 - INFO - Successfully processed data for Cà Mau on 2026-08-17
+2026-08-17 17:15:45,809 - INFO - Successfully fetched 3 results for date 2026-08-17
+2026-08-17 17:15:45,877 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-17
+2026-08-17 17:15:45,901 - INFO - Saved 1177 results to data/xsmn.json
+2026-08-17 17:15:45,918 - INFO - Saved 1177 records to data/xsmn.csv and data/xsmn.parquet
+2026-08-17 17:15:45,926 - INFO - Saved 1177 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
+2026-08-17 17:15:45,953 - INFO - Saved 1177 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
+2026-08-17 17:15:45,992 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
+2026-08-17 17:15:45,993 - INFO - Successfully fetched 1/1 days of XSMN data
+2026-08-17 17:15:45,993 - INFO - Lottery Data Fetch Summary:
+XSMN: succeeded
