@@ -1,22 +1,21 @@
-2026-09-29 01:44:38,944 - INFO - Date range: 2026-09-28 to 2026-09-29
-2026-09-29 01:44:39,017 - INFO - Fetching XSMB from 2026-09-28 to 2026-09-29
-2026-09-29 01:44:39,061 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-27
-2026-09-29 01:44:39,062 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-09-29 01:44:39,062 - INFO - Fetching XSMB: 2026-09-28
-2026-09-29 01:44:39,062 - INFO - Fetching URL: https://xoso.com.vn/xsmb-28-09-2026.html
-2026-09-29 01:44:39,312 - INFO - Response status: 200
-2026-09-29 01:44:39,335 - INFO - Successfully fetched data for 2026-09-28
-2026-09-29 01:44:39,336 - INFO - Fetching XSMB: 2026-09-29
-2026-09-29 01:44:39,336 - INFO - Fetching URL: https://xoso.com.vn/xsmb-29-09-2026.html
-2026-09-29 01:44:39,514 - INFO - Response status: 200
-2026-09-29 01:44:39,536 - WARNING - Skipping XSMB for 2026-09-29 due to incomplete data: ..................
-2026-09-29 01:44:39,536 - WARNING - No data or invalid data for XSMB on 2026-09-29
-2026-09-29 01:44:39,571 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-28
-2026-09-29 01:44:39,583 - INFO - Saved 413 results to data/xsmb.json
-2026-09-29 01:44:39,596 - INFO - Saved 413 records to data/xsmb.csv and data/xsmb.parquet
-2026-09-29 01:44:39,601 - INFO - Saved 413 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-09-29 01:44:39,616 - INFO - Saved 413 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-09-29 01:44:39,654 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-09-29 01:44:39,655 - INFO - Successfully fetched 1/2 days of XSMB data
-2026-09-29 01:44:39,655 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-09-29 23:07:48,187 - INFO - Date range: 2026-09-29 to 2026-09-29
+2026-09-29 23:07:48,266 - INFO - Fetching XSMN from 2026-09-29 to 2026-09-29
+2026-09-29 23:07:48,365 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-28
+2026-09-29 23:07:48,368 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-09-29 23:07:48,368 - INFO - Fetching XSMN: 2026-09-29
+2026-09-29 23:07:48,368 - INFO - Fetching URL: https://xoso.com.vn/xsmn-29-09-2026.html
+2026-09-29 23:07:48,774 - INFO - Response status: 200
+2026-09-29 23:07:48,792 - INFO - Found provinces: Bến Tre, Vũng Tàu, Bạc Liêu
+2026-09-29 23:07:48,793 - INFO - Successfully processed data for Bến Tre on 2026-09-29
+2026-09-29 23:07:48,793 - INFO - Successfully processed data for Vũng Tàu on 2026-09-29
+2026-09-29 23:07:48,793 - INFO - Successfully processed data for Bạc Liêu on 2026-09-29
+2026-09-29 23:07:48,793 - INFO - Successfully fetched 3 results for date 2026-09-29
+2026-09-29 23:07:48,866 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-29
+2026-09-29 23:07:48,894 - INFO - Saved 1312 results to data/xsmn.json
+2026-09-29 23:07:48,911 - INFO - Saved 1312 records to data/xsmn.csv and data/xsmn.parquet
+2026-09-29 23:07:48,919 - INFO - Saved 1312 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
+2026-09-29 23:07:48,948 - INFO - Saved 1312 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
+2026-09-29 23:07:48,993 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
+2026-09-29 23:07:48,994 - INFO - Successfully fetched 1/1 days of XSMN data
+2026-09-29 23:07:48,994 - INFO - Lottery Data Fetch Summary:
+XSMN: succeeded
