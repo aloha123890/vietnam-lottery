@@ -1,27 +1,26 @@
-2026-11-14 00:23:34,410 - INFO - Date range: 2026-11-13 to 2026-11-14
-2026-11-14 00:23:34,457 - INFO - Fetching XSMN from 2026-11-13 to 2026-11-14
-2026-11-14 00:23:34,513 - INFO - Generated dataframes with data from 2025-08-08 to 2026-11-12
-2026-11-14 00:23:34,515 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-11-14 00:23:34,515 - INFO - Fetching XSMN: 2026-11-13
-2026-11-14 00:23:34,515 - INFO - Fetching URL: https://xoso.com.vn/xsmn-13-11-2026.html
-2026-11-14 00:23:35,041 - INFO - Response status: 200
-2026-11-14 00:23:35,052 - INFO - Found provinces: Vĩnh Long, Bình Dương, Trà Vinh
-2026-11-14 00:23:35,052 - INFO - Successfully processed data for Vĩnh Long on 2026-11-13
-2026-11-14 00:23:35,052 - INFO - Successfully processed data for Bình Dương on 2026-11-13
-2026-11-14 00:23:35,052 - INFO - Successfully processed data for Trà Vinh on 2026-11-13
-2026-11-14 00:23:35,052 - INFO - Successfully fetched 3 results for date 2026-11-13
-2026-11-14 00:23:35,052 - INFO - Fetching XSMN: 2026-11-14
-2026-11-14 00:23:35,052 - INFO - Fetching URL: https://xoso.com.vn/xsmn-14-11-2026.html
-2026-11-14 00:23:35,290 - INFO - Response status: 200
-2026-11-14 00:23:35,303 - INFO - Found provinces: TPHCM, Long An, Bình Phước, Hậu Giang
-2026-11-14 00:23:35,303 - WARNING - Skipping TPHCM for 2026-11-14 due to incomplete data: ['...']
-2026-11-14 00:23:35,303 - WARNING - No data or invalid data for XSMN on 2026-11-14
-2026-11-14 00:23:35,346 - INFO - Generated dataframes with data from 2025-08-08 to 2026-11-13
-2026-11-14 00:23:35,363 - INFO - Saved 1453 results to data/xsmn.json
-2026-11-14 00:23:35,375 - INFO - Saved 1453 records to data/xsmn.csv and data/xsmn.parquet
-2026-11-14 00:23:35,380 - INFO - Saved 1453 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2026-11-14 00:23:35,396 - INFO - Saved 1453 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2026-11-14 00:23:35,422 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2026-11-14 00:23:35,422 - INFO - Successfully fetched 1/2 days of XSMN data
-2026-11-14 00:23:35,423 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2026-11-14 01:03:34,084 - INFO - Date range: 2026-11-13 to 2026-11-14
+2026-11-14 01:03:34,134 - INFO - Fetching XSMT from 2026-11-13 to 2026-11-14
+2026-11-14 01:03:34,188 - INFO - Generated dataframes with data from 2025-08-08 to 2026-11-12
+2026-11-14 01:03:34,189 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-11-14 01:03:34,190 - INFO - Fetching XSMT: 2026-11-13
+2026-11-14 01:03:34,190 - INFO - Fetching URL: https://xoso.com.vn/xsmt-13-11-2026.html
+2026-11-14 01:03:34,655 - INFO - Response status: 200
+2026-11-14 01:03:34,666 - INFO - Found provinces: Gia Lai, Ninh Thuận
+2026-11-14 01:03:34,667 - INFO - Successfully processed data for Gia Lai on 2026-11-13
+2026-11-14 01:03:34,667 - INFO - Successfully processed data for Ninh Thuận on 2026-11-13
+2026-11-14 01:03:34,667 - INFO - Successfully fetched 2 results for date 2026-11-13
+2026-11-14 01:03:34,667 - INFO - Fetching XSMT: 2026-11-14
+2026-11-14 01:03:34,667 - INFO - Fetching URL: https://xoso.com.vn/xsmt-14-11-2026.html
+2026-11-14 01:03:35,245 - INFO - Response status: 200
+2026-11-14 01:03:35,258 - INFO - Found provinces: Đà Nẵng, Quảng Ngãi, Đắk Nông
+2026-11-14 01:03:35,258 - WARNING - Skipping Đà Nẵng for 2026-11-14 due to incomplete data: ['...']
+2026-11-14 01:03:35,258 - WARNING - No data or invalid data for XSMT on 2026-11-14
+2026-11-14 01:03:35,303 - INFO - Generated dataframes with data from 2025-08-08 to 2026-11-13
+2026-11-14 01:03:35,319 - INFO - Saved 1119 results to data/xsmt.json
+2026-11-14 01:03:35,332 - INFO - Saved 1119 records to data/xsmt.csv and data/xsmt.parquet
+2026-11-14 01:03:35,338 - INFO - Saved 1119 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-11-14 01:03:35,354 - INFO - Saved 1119 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-11-14 01:03:35,385 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-11-14 01:03:35,386 - INFO - Successfully fetched 1/2 days of XSMT data
+2026-11-14 01:03:35,386 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
